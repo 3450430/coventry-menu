@@ -1,0 +1,3061 @@
+{
+ "weekStart": "2026-11-16",
+ "weekLabel": "11/16/2026 – 11/22/2026",
+ "menuNumber": "Week 3",
+ "refreshed": "2026-11-14",
+ "flyerWindow": "Flyers valid Nov 11–17, 2026 (shop by Tue 11/17). Costco book Nov 16–Dec 20. Sam's Club Instant Savings through Nov 29.",
+ "facility": {
+  "name": "COVENTRY ROYAL CARE LLC",
+  "address": "17717 N 69th Ave • Glendale, AZ 85308",
+  "contact": "Business: (602) 900-6868 • Fax: (480) 877-9864 • contact@coventryroyalcare.com"
+ },
+ "holiday": {
+  "title": "Thanksgiving is Thursday, Nov 26 (the week after this menu)",
+  "text": "Turkey is at its lowest price now. Buy and freeze this week; next week's menu will be built around Thanksgiving dinner. Plan about 1.25 lb of whole turkey per resident (a 12–14 lb bird feeds 10).",
+  "deals": [
+   [
+    "Safeway",
+    "Signature SELECT whole turkey, Grade A",
+    "$0.49/lb",
+    "saf"
+   ],
+   [
+    "Fry's",
+    "Kroger whole turkey",
+    "$0.58/lb",
+    "fry2"
+   ],
+   [
+    "Walmart",
+    "Shady Brook Farms frozen turkey",
+    "$0.84/lb",
+    "wal"
+   ],
+   [
+    "Fry's",
+    "Butterball whole turkey, frozen",
+    "$0.88/lb",
+    "fry"
+   ],
+   [
+    "Walmart",
+    "Butterball whole turkey",
+    "$0.97/lb",
+    "wal"
+   ],
+   [
+    "Albertsons",
+    "Butterball Premium Natural whole turkey",
+    "$0.99/lb",
+    "alb"
+   ],
+   [
+    "Fry's",
+    "Stove Top stuffing 6 oz or Heinz gravy 12 oz",
+    "2 for $4",
+    "fry"
+   ],
+   [
+    "Fry's",
+    "Kroger cranberry sauce 14 oz",
+    "$1.79",
+    "fry"
+   ],
+   [
+    "Sam's Club",
+    "Kinder's turkey gravy 2-pack",
+    "$5.78",
+    "sam2"
+   ]
+  ]
+ },
+ "sources": {
+  "fry": {
+   "store": "Fry's",
+   "label": "Fry's weekly ad price list, Nov 11–17",
+   "url": "https://weeklyadhunters.com/frys-food-weekly-ad/"
+  },
+  "fry2": {
+   "store": "Fry's",
+   "label": "Fry's weekly ad specials, Nov 11–17",
+   "url": "https://www.weeklyad.io/frys"
+  },
+  "saf": {
+   "store": "Safeway",
+   "label": "Safeway weekly ad price list, Nov 11–17",
+   "url": "https://weeklyadhunters.com/safeway-weekly-ad/"
+  },
+  "alb": {
+   "store": "Albertsons",
+   "label": "Albertsons weekly ad price list, Nov 11–17",
+   "url": "https://weeklyadhunters.com/albertsons-weekly-ad/"
+  },
+  "snf": {
+   "store": "Smart & Final",
+   "label": "Smart & Final weekly ad, Nov 11–17",
+   "url": "https://weeklyadhunters.com/smart-and-final-weekly-ad/"
+  },
+  "sam": {
+   "store": "Sam's Club",
+   "label": "Sam's Club Instant Savings (pantry), ends Nov 29",
+   "url": "https://www.samsclub.com/browse/instant-savings-pantry/7130123"
+  },
+  "sam2": {
+   "store": "Sam's Club",
+   "label": "Sam's Club November Instant Savings book",
+   "url": "https://thekrazycouponlady.com/tips/store-hacks/sams-club-monthly-ad"
+  },
+  "cos": {
+   "store": "Costco",
+   "label": "Costco coupon book, Nov 16–Dec 20",
+   "url": "https://thekrazycouponlady.com/tips/couponing/costco-coupon-book"
+  },
+  "wal": {
+   "store": "Walmart",
+   "label": "2026 turkey prices by store",
+   "url": "https://thecouponproject.com/best-turkey-prices-at-grocery-store/"
+  }
+ },
+ "storeNotes": [
+  [
+   "Fry's",
+   "ok",
+   "Weekly ad read in full (98 items)."
+  ],
+  [
+   "Safeway",
+   "ok",
+   "Weekly ad read in full (197 items). The listing did not state digital-coupon or minimum-purchase conditions; check the 49¢ turkey terms in store."
+  ],
+  [
+   "Albertsons",
+   "ok",
+   "Weekly ad read in full (198 items)."
+  ],
+  [
+   "Smart & Final",
+   "partial",
+   "Only part of the ad was readable (chicken, bananas, onions, pasta, flour)."
+  ],
+  [
+   "Sam's Club",
+   "ok",
+   "Instant Savings pantry items read from samsclub.com."
+  ],
+  [
+   "Costco",
+   "partial",
+   "New coupon book starts Nov 16; few staple groceries in it (Rao's sauce used)."
+  ],
+  [
+   "Walmart",
+   "partial",
+   "No weekly flyer; only the holiday turkey prices were confirmed."
+  ],
+  [
+   "Sprouts",
+   "none",
+   "Ad is published as page images only; no itemized prices could be read this week."
+  ],
+  [
+   "Food City",
+   "none",
+   "Arizona ad not available in a readable listing this week."
+  ],
+  [
+   "WinCo",
+   "none",
+   "WinCo does not publish a weekly flyer."
+  ]
+ ],
+ "ingredients": {
+  "chicken_whole": [
+   "Whole chicken, Foster Farms",
+   "lb",
+   0.99,
+   "Smart & Final",
+   "sale",
+   "snf",
+   ""
+  ],
+  "chicken_drum": [
+   "Chicken drumsticks, Foster Farms",
+   "lb",
+   0.99,
+   "Smart & Final",
+   "sale",
+   "snf",
+   ""
+  ],
+  "chicken_thigh": [
+   "Chicken thighs, Foster Farms",
+   "lb",
+   1.29,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "chicken_breast": [
+   "Boneless skinless chicken breast, Foster Farms",
+   "lb",
+   2.99,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "chicken_split": [
+   "Split chicken breast, bone-in",
+   "lb",
+   2.29,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "ground_beef": [
+   "Ground beef, 85% lean",
+   "lb",
+   4.99,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "beef_stew": [
+   "Beef tri-tip roast (cube it for stew)",
+   "lb",
+   4.99,
+   "Safeway",
+   "sale",
+   "saf",
+   "Cheaper this week than packaged stew meat"
+  ],
+  "salmon": [
+   "Atlantic salmon fillets",
+   "lb",
+   8.99,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "ham": [
+   "Spiral ham, hickory smoked",
+   "lb",
+   1.99,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "bacon": [
+   "Bacon (3 lb pack)",
+   "lb",
+   4.49,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "sausage": [
+   "Ground Italian sausage, 16 oz",
+   "lb",
+   4.99,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "eggs": [
+   "Eggs, cage-free (24 ct $4.99)",
+   "egg",
+   0.208,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "tuna": [
+   "Tuna in water, 5 oz can",
+   "can",
+   1,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "milk": [
+   "Milk (gallon ≈ $2.99)",
+   "cup",
+   0.187,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "butter": [
+   "Butter, Land O Lakes (1 lb $2.99)",
+   "tbsp",
+   0.093,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "cheese_shred": [
+   "Shredded cheese, Sargento (2 for $5)",
+   "cup",
+   1.25,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "cheese_slice": [
+   "Sliced cheese, Sargento (2 for $5)",
+   "slice",
+   0.25,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "sour_cream": [
+   "Sour cream, 16 oz (3 for $5)",
+   "cup",
+   0.83,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "yogurt_cup": [
+   "Yoplait yogurt cup",
+   "cup",
+   0.49,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "parmesan": [
+   "Grated Parmesan, 24 oz ($6.48)",
+   "cup",
+   0.81,
+   "Sam's Club",
+   "sale",
+   "sam",
+   ""
+  ],
+  "ricotta": [
+   "Ricotta, 15 oz tub",
+   "tub",
+   3.49,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "cream": [
+   "Heavy cream (pint ≈ $3.49)",
+   "cup",
+   1.75,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "mayo": [
+   "Mayonnaise, Kraft 30 oz ($4.49)",
+   "cup",
+   1.2,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "potato": [
+   "Russet potatoes (10 lb bag $3.99)",
+   "lb",
+   0.4,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "onion": [
+   "White onions",
+   "lb",
+   0.88,
+   "Smart & Final",
+   "sale",
+   "snf",
+   ""
+  ],
+  "carrot": [
+   "Carrots, 1 lb bag",
+   "lb",
+   1.99,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "celery": [
+   "Celery (bunch ≈ $1.99)",
+   "stalk",
+   0.2,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "bell_pepper": [
+   "Bell peppers, red/orange/yellow",
+   "each",
+   0.99,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "cucumber": [
+   "English cucumbers",
+   "each",
+   0.99,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "broccoli": [
+   "Broccoli crowns",
+   "lb",
+   2.99,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "salad": [
+   "Salad blend, Fresh Express",
+   "bag",
+   2.99,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "mushroom": [
+   "Mushrooms, 8 oz (2 for $5)",
+   "pack",
+   2.5,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "avocado": [
+   "Hass avocado (2 for $4)",
+   "each",
+   2,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "zucchini": [
+   "Zucchini",
+   "lb",
+   1.49,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "apple": [
+   "Honeycrisp apples or Bartlett pears",
+   "lb",
+   0.99,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "banana": [
+   "Bananas, Chiquita",
+   "lb",
+   0.59,
+   "Smart & Final",
+   "sale",
+   "snf",
+   ""
+  ],
+  "grapes": [
+   "Seedless grapes, red or green",
+   "lb",
+   1.99,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "orange": [
+   "Navel oranges (8 lb bag $5)",
+   "lb",
+   0.625,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "cuties": [
+   "Cuties mandarins ($5 bag)",
+   "each",
+   0.33,
+   "Safeway",
+   "sale",
+   "saf",
+   "Bag size not stated in ad; assumes about 15 per bag"
+  ],
+  "blueberries": [
+   "Blueberries, 18 oz",
+   "pack",
+   3.99,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "lemon": [
+   "Lemons (10 for $10)",
+   "each",
+   1,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "pasta": [
+   "Barilla pasta, 1 lb",
+   "lb",
+   0.99,
+   "Safeway",
+   "sale",
+   "saf",
+   "Same price at Smart & Final"
+  ],
+  "rice": [
+   "Long grain rice (20 lb bag $15.49)",
+   "lb",
+   0.77,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "flour": [
+   "All-purpose flour, Gold Medal ($2.75 bag)",
+   "lb",
+   0.55,
+   "Smart & Final",
+   "sale",
+   "snf",
+   "Assumes 5 lb bag"
+  ],
+  "sugar": [
+   "Granulated sugar (4 lb $3.79)",
+   "lb",
+   0.95,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "brown_sugar": [
+   "Brown sugar, 2 lb (2 for $3)",
+   "lb",
+   0.75,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "oats": [
+   "Old-fashioned oats (42 oz ≈ $3.98)",
+   "lb",
+   1.5,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "bread": [
+   "Sandwich bread, Nature's Own (2 for $5)",
+   "slice",
+   0.125,
+   "Safeway",
+   "sale",
+   "saf",
+   ""
+  ],
+  "tortilla": [
+   "Flour tortillas (10 ct $2.99)",
+   "each",
+   0.3,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "rolls": [
+   "Dinner rolls, King's Hawaiian (24 ct $6.99)",
+   "each",
+   0.29,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
+  "broth": [
+   "Chicken broth, 32 oz (6-pack $6.98)",
+   "cup",
+   0.29,
+   "Sam's Club",
+   "sale",
+   "sam",
+   ""
+  ],
+  "canned_veg": [
+   "Del Monte green beans or corn (8-pack $6.62)",
+   "can",
+   0.83,
+   "Sam's Club",
+   "sale",
+   "sam",
+   ""
+  ],
+  "tomato_can": [
+   "Hunt's diced tomatoes or sauce, 14.5–15 oz",
+   "can",
+   1.99,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "tomato_paste": [
+   "Tomato paste, 6 oz",
+   "can",
+   0.99,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "pasta_sauce": [
+   "Rao's marinara, 31.7 oz (2-pack $9.69)",
+   "jar",
+   4.85,
+   "Costco",
+   "sale",
+   "cos",
+   "Starts Nov 16"
+  ],
+  "beans": [
+   "Canned kidney or black beans, 15 oz",
+   "can",
+   0.99,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "frozen_veg": [
+   "Frozen peas or mixed vegetables, 12 oz",
+   "bag",
+   1.25,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "pie_crust": [
+   "Refrigerated pie crust, 2-crust box",
+   "box",
+   2.89,
+   "Albertsons",
+   "sale",
+   "alb",
+   ""
+  ],
+  "breadcrumbs": [
+   "Plain breadcrumbs",
+   "cup",
+   0.5,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "ketchup": [
+   "Ketchup",
+   "cup",
+   0.6,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "syrup": [
+   "Pancake syrup",
+   "cup",
+   1.6,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "crackers": [
+   "Saltine or butter crackers",
+   "sleeve",
+   1,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "raisins": [
+   "Raisins",
+   "cup",
+   1.2,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "taco_seasoning": [
+   "Taco seasoning packet, mild",
+   "packet",
+   0.79,
+   "Walmart",
+   "est",
+   "",
+   ""
+  ],
+  "pantry": [
+   "Seasonings, oil, garlic and condiments on hand",
+   "serving",
+   0.1,
+   "Pantry",
+   "est",
+   "",
+   ""
+  ]
+ },
+ "daily": {
+  "label": "Coffee and tea, 4 oz 100% juice at breakfast, 8 oz milk at breakfast and dinner, water all day",
+  "costPerResident": 0.68,
+  "costNote": "Milk 2 cups $0.37 (est.), apple juice 4 oz $0.16 (Fry's 64 oz, 2 for $5), coffee/tea $0.15 (est.)",
+  "n": {
+   "kcal": 300,
+   "protein": 16,
+   "sodium": 240,
+   "fruit": 0.5,
+   "veg": 0,
+   "grains": 0,
+   "prot": 0,
+   "dairy": 2
+  }
+ },
+ "targets": {
+  "kcalMin": 1600,
+  "kcalMax": 2000,
+  "fruit": 1.5,
+  "veg": 2.5,
+  "grains": 6,
+  "prot": 5,
+  "dairy": 3,
+  "sodiumMax": 2300
+ },
+ "recipes": {
+  "b1": {
+   "name": "Buttermilk pancakes, scrambled egg, banana",
+   "short": "Pancakes & eggs",
+   "type": "breakfast",
+   "items": [
+    [
+     "flour",
+     1
+    ],
+    [
+     "sugar",
+     0.1
+    ],
+    [
+     "milk",
+     3.5
+    ],
+    [
+     "lemon",
+     1
+    ],
+    [
+     "eggs",
+     14
+    ],
+    [
+     "butter",
+     6
+    ],
+    [
+     "syrup",
+     1.25
+    ],
+    [
+     "banana",
+     3
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Stir 2 Tbsp lemon juice into the milk and let it stand 5 minutes to make buttermilk.",
+    "Whisk flour, sugar, 1 Tbsp baking powder, 1 tsp baking soda and 1 tsp salt. Whisk in the soured milk, 4 eggs and 4 Tbsp melted butter until just combined; small lumps are fine.",
+    "Cook 1/4-cup rounds on a lightly buttered griddle over medium heat, about 2 minutes a side, until golden.",
+    "Scramble the remaining 10 eggs in butter over medium-low heat until set.",
+    "Serve 2–3 pancakes with warm syrup, a spoonful of eggs and half a banana."
+   ],
+   "temp": "Eggs cooked until firm (155°F for hot-held egg dishes).",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/quick-and-easy-buttermilk-pancakes-recipe/",
+    4.96,
+    170,
+    true
+   ],
+   "n": {
+    "kcal": 430,
+    "protein": 15,
+    "sodium": 620,
+    "fruit": 0.5,
+    "veg": 0,
+    "grains": 2,
+    "prot": 1,
+    "dairy": 0.3
+   }
+  },
+  "b2": {
+   "name": "French toast with syrup, banana",
+   "short": "French toast",
+   "type": "breakfast",
+   "items": [
+    [
+     "bread",
+     20
+    ],
+    [
+     "eggs",
+     14
+    ],
+    [
+     "milk",
+     2.25
+    ],
+    [
+     "butter",
+     6
+    ],
+    [
+     "syrup",
+     1.25
+    ],
+    [
+     "banana",
+     3
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Whisk eggs, milk, 2 tsp cinnamon, 1 Tbsp vanilla, 2 Tbsp honey and a pinch of salt in a shallow dish.",
+    "Soak each bread slice about 20 seconds a side.",
+    "Cook in butter over medium-low heat 3–4 minutes a side until golden and set in the middle.",
+    "Hold finished slices in a 275°F oven up to 15 minutes. Serve 2 slices with syrup and half a banana."
+   ],
+   "temp": "Egg custard cooked through (155°F).",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/french-toast-recipe/",
+    5,
+    132,
+    true
+   ],
+   "n": {
+    "kcal": 420,
+    "protein": 17,
+    "sodium": 480,
+    "fruit": 0.5,
+    "veg": 0,
+    "grains": 2,
+    "prot": 1.25,
+    "dairy": 0.25
+   }
+  },
+  "b3": {
+   "name": "Baked oatmeal with blueberries and apple, boiled egg",
+   "short": "Baked oatmeal",
+   "type": "breakfast",
+   "items": [
+    [
+     "oats",
+     0.67
+    ],
+    [
+     "milk",
+     2.5
+    ],
+    [
+     "yogurt_cup",
+     3
+    ],
+    [
+     "eggs",
+     12
+    ],
+    [
+     "brown_sugar",
+     0.2
+    ],
+    [
+     "blueberries",
+     1
+    ],
+    [
+     "apple",
+     1.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 350°F. Butter a 9×13 dish. Dice the apples and spread them in the dish with the blueberries.",
+    "Whisk milk, yogurt, 2 eggs, brown sugar, 1 tsp baking powder, 1/2 tsp baking soda, 1/2 tsp salt and 1 tsp cinnamon. Stir in the oats and pour over the fruit.",
+    "Bake covered 20 minutes, then uncovered about 25 minutes until set and golden.",
+    "Boil the remaining 10 eggs 12 minutes, cool and peel. Serve a square of oatmeal with one egg."
+   ],
+   "temp": "Bake until the centre is set (155°F).",
+   "src": [
+    "Budget Bytes",
+    "https://www.budgetbytes.com/baked-oatmeal/",
+    4.84,
+    18,
+    false
+   ],
+   "n": {
+    "kcal": 380,
+    "protein": 16,
+    "sodium": 260,
+    "fruit": 0.75,
+    "veg": 0,
+    "grains": 1.5,
+    "prot": 1,
+    "dairy": 0.5
+   }
+  },
+  "b4": {
+   "name": "Bacon, egg and potato breakfast casserole, toast, orange wedges",
+   "short": "Breakfast casserole",
+   "type": "breakfast",
+   "items": [
+    [
+     "potato",
+     1.7
+    ],
+    [
+     "bacon",
+     0.5
+    ],
+    [
+     "onion",
+     0.4
+    ],
+    [
+     "bell_pepper",
+     2
+    ],
+    [
+     "eggs",
+     10
+    ],
+    [
+     "sour_cream",
+     0.4
+    ],
+    [
+     "cheese_shred",
+     2.5
+    ],
+    [
+     "bread",
+     10
+    ],
+    [
+     "butter",
+     3
+    ],
+    [
+     "orange",
+     3
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 350°F. Dice the potatoes and boil 8–10 minutes until just tender; drain.",
+    "Cook chopped bacon until crisp. Soften the diced onion and pepper in a little of the fat.",
+    "Whisk eggs with sour cream, 3/4 tsp salt and pepper. Layer potatoes, bacon, vegetables and half the cheese in a buttered 9×13 dish and pour the eggs over.",
+    "Cover with foil and bake 25 minutes. Uncover, add the rest of the cheese and broil 3–4 minutes.",
+    "Serve with buttered toast and orange wedges."
+   ],
+   "temp": "Egg casserole to 155°F in the centre.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/breakfast-casserole/",
+    4.94,
+    31,
+    false
+   ],
+   "n": {
+    "kcal": 430,
+    "protein": 21,
+    "sodium": 720,
+    "fruit": 0.5,
+    "veg": 0.5,
+    "grains": 1,
+    "prot": 1.5,
+    "dairy": 0.5
+   }
+  },
+  "b5": {
+   "name": "Fluffy scrambled eggs, buttered toast, apple slices",
+   "short": "Scrambled eggs & toast",
+   "type": "breakfast",
+   "items": [
+    [
+     "eggs",
+     20
+    ],
+    [
+     "milk",
+     0.6
+    ],
+    [
+     "butter",
+     8
+    ],
+    [
+     "bread",
+     10
+    ],
+    [
+     "apple",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Whisk eggs with the milk, 1/2 tsp salt and a little pepper until completely blended.",
+    "Melt 5 Tbsp butter in a large non-stick pan over medium-low heat. Add the eggs and let them sit 20 seconds.",
+    "Push the eggs gently from the edges to the centre in large folds until softly set, about 3–4 minutes. Take off the heat while still glossy.",
+    "Serve with buttered toast and thin apple slices."
+   ],
+   "temp": "Eggs cooked until firm, no liquid egg (155°F if hot-held).",
+   "src": [
+    "Spend With Pennies",
+    "https://www.spendwithpennies.com/fluffy-scrambled-eggs/",
+    5,
+    57,
+    false
+   ],
+   "n": {
+    "kcal": 340,
+    "protein": 16,
+    "sodium": 420,
+    "fruit": 0.5,
+    "veg": 0,
+    "grains": 1,
+    "prot": 2,
+    "dairy": 0.1
+   }
+  },
+  "b6": {
+   "name": "Banana bread, yogurt cup, grapes",
+   "short": "Banana bread & yogurt",
+   "type": "breakfast",
+   "items": [
+    [
+     "banana",
+     1.5
+    ],
+    [
+     "butter",
+     8
+    ],
+    [
+     "sugar",
+     0.33
+    ],
+    [
+     "eggs",
+     2
+    ],
+    [
+     "flour",
+     0.42
+    ],
+    [
+     "yogurt_cup",
+     10
+    ],
+    [
+     "grapes",
+     2
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 350°F. Butter and flour a 9×5 loaf pan.",
+    "Cream the softened butter and sugar. Beat in the eggs, then 3 mashed very ripe bananas and 1/2 tsp vanilla.",
+    "Stir in flour, 1 tsp baking soda and 1/2 tsp salt until just combined. Pour into the pan.",
+    "Bake 55–60 minutes until a toothpick comes out clean. Cool 10 minutes, turn out and slice into 10.",
+    "Serve a slice with a yogurt cup and halved grapes."
+   ],
+   "temp": "Bake until a toothpick comes out clean.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/banana-bread-recipe-video/",
+    4.96,
+    7152,
+    true
+   ],
+   "n": {
+    "kcal": 400,
+    "protein": 9,
+    "sodium": 300,
+    "fruit": 0.75,
+    "veg": 0,
+    "grains": 1.5,
+    "prot": 0.25,
+    "dairy": 0.75
+   }
+  },
+  "l1": {
+   "name": "Chicken noodle soup, dinner roll, apple slices",
+   "short": "Chicken noodle soup",
+   "type": "lunch",
+   "items": [
+    [
+     "chicken_thigh",
+     3
+    ],
+    [
+     "broth",
+     8
+    ],
+    [
+     "onion",
+     0.5
+    ],
+    [
+     "celery",
+     4
+    ],
+    [
+     "carrot",
+     1
+    ],
+    [
+     "pasta",
+     0.4
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "butter",
+     3
+    ],
+    [
+     "apple",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Bring the broth and 6 cups water to a boil. Add skinless chicken thighs and simmer 20 minutes.",
+    "Sauté the chopped onion and celery in 2 Tbsp oil until golden; add to the pot with the sliced carrots.",
+    "Add the pasta and cook 15 minutes more. Lift out the chicken, shred it, discard bones and return the meat.",
+    "Season with salt-free seasoning, dill and one pressed garlic clove. Taste before adding salt.",
+    "Serve with a buttered roll and apple slices."
+   ],
+   "temp": "Chicken to 165°F.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/easy-chicken-noodle-soup-recipe/",
+    4.98,
+    410,
+    true
+   ],
+   "n": {
+    "kcal": 370,
+    "protein": 22,
+    "sodium": 900,
+    "fruit": 0.5,
+    "veg": 0.75,
+    "grains": 1.5,
+    "prot": 2,
+    "dairy": 0
+   }
+  },
+  "l2": {
+   "name": "Chicken salad sandwich with grapes, side salad",
+   "short": "Chicken salad sandwich",
+   "type": "lunch",
+   "items": [
+    [
+     "chicken_breast",
+     2
+    ],
+    [
+     "grapes",
+     2.5
+    ],
+    [
+     "celery",
+     4
+    ],
+    [
+     "onion",
+     0.25
+    ],
+    [
+     "mayo",
+     0.8
+    ],
+    [
+     "sour_cream",
+     0.8
+    ],
+    [
+     "lemon",
+     1
+    ],
+    [
+     "bread",
+     20
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Poach the chicken breasts in simmering salted water 15–18 minutes. Cool and dice.",
+    "Whisk mayonnaise, sour cream, 3 Tbsp lemon juice, chopped dill or parsley, 3/4 tsp salt and pepper.",
+    "Fold in the chicken, 3 cups halved grapes, sliced celery and finely chopped onion. Chill.",
+    "Serve on bread with a small green salad and the remaining grapes, halved. (The source recipe adds toasted pecans; they are left out here for easier chewing.)"
+   ],
+   "temp": "Chicken to 165°F, then chill and hold at 41°F or below.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/chicken-salad-recipe/",
+    4.99,
+    429,
+    true
+   ],
+   "n": {
+    "kcal": 480,
+    "protein": 28,
+    "sodium": 560,
+    "fruit": 0.75,
+    "veg": 0.6,
+    "grains": 2,
+    "prot": 2.5,
+    "dairy": 0.1
+   }
+  },
+  "l3": {
+   "name": "Egg salad sandwich, side salad, orange wedges",
+   "short": "Egg salad sandwich",
+   "type": "lunch",
+   "items": [
+    [
+     "eggs",
+     20
+    ],
+    [
+     "mayo",
+     0.85
+    ],
+    [
+     "celery",
+     1
+    ],
+    [
+     "onion",
+     0.2
+    ],
+    [
+     "lemon",
+     1
+    ],
+    [
+     "bread",
+     20
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "orange",
+     3
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Boil the eggs 12 minutes, cool in ice water, peel and chop.",
+    "Mix mayonnaise, 4 tsp lemon juice, 4 tsp Dijon mustard, 1/2 tsp salt, 1/2 tsp paprika and pepper.",
+    "Fold in the eggs with finely chopped celery, onion, dill and chives. Chill.",
+    "Serve on bread with a small green salad and orange wedges."
+   ],
+   "temp": "Hold egg salad at 41°F or below.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/egg-salad-recipe/",
+    4.98,
+    237,
+    true
+   ],
+   "n": {
+    "kcal": 440,
+    "protein": 17,
+    "sodium": 600,
+    "fruit": 0.5,
+    "veg": 0.5,
+    "grains": 2,
+    "prot": 2,
+    "dairy": 0
+   }
+  },
+  "l4": {
+   "name": "Apple tuna salad sandwich, side salad, apple slices",
+   "short": "Tuna salad sandwich",
+   "type": "lunch",
+   "items": [
+    [
+     "tuna",
+     5
+    ],
+    [
+     "onion",
+     0.4
+    ],
+    [
+     "apple",
+     2.6
+    ],
+    [
+     "avocado",
+     1
+    ],
+    [
+     "mayo",
+     0.95
+    ],
+    [
+     "lemon",
+     1
+    ],
+    [
+     "bread",
+     20
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Drain the tuna well and flake it into a bowl.",
+    "Add finely diced onion, one diced apple and the diced avocado.",
+    "Stir in the mayonnaise, 1 tsp lemon juice and pepper. Chill.",
+    "Serve on bread with a small green salad and apple slices. (The source recipe adds toasted almonds; left out here.)"
+   ],
+   "temp": "Hold tuna salad at 41°F or below.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/tuna-salad-recipe/",
+    4.98,
+    76,
+    false
+   ],
+   "n": {
+    "kcal": 430,
+    "protein": 22,
+    "sodium": 620,
+    "fruit": 0.5,
+    "veg": 0.5,
+    "grains": 2,
+    "prot": 2,
+    "dairy": 0
+   }
+  },
+  "l5": {
+   "name": "Minestrone soup with Parmesan, dinner roll",
+   "short": "Minestrone soup",
+   "type": "lunch",
+   "items": [
+    [
+     "bacon",
+     0.55
+    ],
+    [
+     "onion",
+     0.6
+    ],
+    [
+     "tomato_can",
+     4
+    ],
+    [
+     "broth",
+     3.6
+    ],
+    [
+     "tomato_paste",
+     1
+    ],
+    [
+     "beans",
+     2
+    ],
+    [
+     "pasta",
+     0.45
+    ],
+    [
+     "parmesan",
+     0.5
+    ],
+    [
+     "celery",
+     2
+    ],
+    [
+     "carrot",
+     0.5
+    ],
+    [
+     "zucchini",
+     0.75
+    ],
+    [
+     "potato",
+     0.75
+    ],
+    [
+     "canned_veg",
+     1
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Cook chopped bacon in a large pot until golden. Add chopped onion and 3 minced garlic cloves; cook 2 minutes.",
+    "Add diced celery, carrot, zucchini and potato; cook 3 minutes.",
+    "Add the tomatoes, broth, 3.5 cups water, tomato paste, 1 Tbsp Worcestershire and the drained beans. Cover and simmer gently 30 minutes.",
+    "Add the small pasta and drained green beans; simmer 10 minutes more until the pasta is soft.",
+    "Stir in the Parmesan. Serve with a roll."
+   ],
+   "temp": "Bring to a full simmer (165°F); reheat leftovers to 165°F.",
+   "src": [
+    "RecipeTin Eats",
+    "https://www.recipetineats.com/minestrone-soup/",
+    4.94,
+    137,
+    true
+   ],
+   "n": {
+    "kcal": 380,
+    "protein": 16,
+    "sodium": 880,
+    "fruit": 0,
+    "veg": 1.25,
+    "grains": 1.5,
+    "prot": 1,
+    "dairy": 0.1
+   }
+  },
+  "l6": {
+   "name": "Mild beef and bean chili with cheese, crackers",
+   "short": "Beef & bean chili",
+   "type": "lunch",
+   "items": [
+    [
+     "ground_beef",
+     1.67
+    ],
+    [
+     "onion",
+     1
+    ],
+    [
+     "beans",
+     4
+    ],
+    [
+     "tomato_can",
+     2
+    ],
+    [
+     "tomato_paste",
+     2
+    ],
+    [
+     "cheese_shred",
+     1.25
+    ],
+    [
+     "sour_cream",
+     0.6
+    ],
+    [
+     "crackers",
+     2
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Sauté the diced onion and 3 minced garlic cloves in 3 Tbsp oil until soft.",
+    "Add the ground beef and brown, breaking it up. Drain excess fat.",
+    "Add drained beans, diced tomatoes, tomato paste, 1.75 cups water, 1.5 Tbsp mild chili powder, 2 tsp cumin, 1 Tbsp brown sugar, 1.5 tsp salt. Leave out the cayenne.",
+    "Simmer 20–30 minutes, stirring now and then.",
+    "Serve topped with cheese and sour cream, with crackers."
+   ],
+   "temp": "Ground beef to 155°F; reheat leftovers to 165°F.",
+   "src": [
+    "Budget Bytes",
+    "https://www.budgetbytes.com/basic-chili/",
+    4.8,
+    237,
+    true
+   ],
+   "n": {
+    "kcal": 470,
+    "protein": 27,
+    "sodium": 840,
+    "fruit": 0,
+    "veg": 1,
+    "grains": 0.75,
+    "prot": 2.5,
+    "dairy": 0.3
+   }
+  },
+  "l7": {
+   "name": "Chicken and cheese quesadilla, sour cream, side salad",
+   "short": "Chicken quesadilla",
+   "type": "lunch",
+   "items": [
+    [
+     "tortilla",
+     10
+    ],
+    [
+     "bell_pepper",
+     2
+    ],
+    [
+     "onion",
+     0.4
+    ],
+    [
+     "chicken_breast",
+     1.5
+    ],
+    [
+     "taco_seasoning",
+     2
+    ],
+    [
+     "cheese_shred",
+     5
+    ],
+    [
+     "sour_cream",
+     0.6
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Poach or bake the chicken until cooked through, then shred.",
+    "Soften the diced pepper and onion in 1 Tbsp oil. Add the chicken, taco seasoning and 1/2 cup water; simmer until the liquid is gone.",
+    "Spread filling and cheese over half of each tortilla and fold.",
+    "Cook in a lightly oiled pan over medium-low heat 3–4 minutes a side, or bake at 400°F 8–12 minutes, until crisp and melted.",
+    "Cut in wedges. Serve with sour cream and a small green salad."
+   ],
+   "temp": "Chicken to 165°F.",
+   "src": [
+    "Spend With Pennies",
+    "https://www.spendwithpennies.com/chicken-quesadillas/",
+    5,
+    61,
+    false
+   ],
+   "n": {
+    "kcal": 500,
+    "protein": 30,
+    "sodium": 860,
+    "fruit": 0,
+    "veg": 0.75,
+    "grains": 2,
+    "prot": 2,
+    "dairy": 1
+   }
+  },
+  "d1": {
+   "name": "Beef stew with potatoes, carrots and peas, salad, dinner roll",
+   "short": "Beef stew",
+   "type": "dinner",
+   "items": [
+    [
+     "beef_stew",
+     2.5
+    ],
+    [
+     "flour",
+     0.1
+    ],
+    [
+     "onion",
+     0.6
+    ],
+    [
+     "broth",
+     7.5
+    ],
+    [
+     "potato",
+     1.25
+    ],
+    [
+     "carrot",
+     1
+    ],
+    [
+     "celery",
+     5
+    ],
+    [
+     "tomato_paste",
+     1
+    ],
+    [
+     "frozen_veg",
+     1
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Cut the tri-tip into 1-inch cubes. Toss with the flour, 3/4 tsp garlic powder, salt and pepper.",
+    "Brown the beef with the chopped onion in 4 Tbsp oil in a large pot.",
+    "Add the broth (beef base or bouillon may be stirred in for colour), scraping the bottom. Add cubed potatoes, carrots, celery, tomato paste and 1 tsp dried rosemary.",
+    "Cover and simmer on medium-low 1 to 1.5 hours until the beef is very tender.",
+    "Thicken with 2.5 Tbsp cornstarch stirred into cold water. Add the peas and cook 5 minutes. Serve with salad and a roll."
+   ],
+   "temp": "Simmer until tender (well above 155°F); reheat leftovers to 165°F.",
+   "src": [
+    "Spend With Pennies",
+    "https://www.spendwithpennies.com/beef-stew-recipe/",
+    4.95,
+    2764,
+    false
+   ],
+   "n": {
+    "kcal": 480,
+    "protein": 30,
+    "sodium": 780,
+    "fruit": 0,
+    "veg": 1.5,
+    "grains": 1,
+    "prot": 3,
+    "dairy": 0
+   }
+  },
+  "d2": {
+   "name": "Glazed meatloaf, mashed potatoes, green beans, dinner roll",
+   "short": "Meatloaf & mashed potatoes",
+   "type": "dinner",
+   "items": [
+    [
+     "ground_beef",
+     2.5
+    ],
+    [
+     "onion",
+     0.6
+    ],
+    [
+     "eggs",
+     3
+    ],
+    [
+     "ketchup",
+     1.1
+    ],
+    [
+     "breadcrumbs",
+     1
+    ],
+    [
+     "milk",
+     1.4
+    ],
+    [
+     "brown_sugar",
+     0.05
+    ],
+    [
+     "potato",
+     4
+    ],
+    [
+     "butter",
+     5
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 350°F. Soften the finely chopped onion in 1 tsp oil.",
+    "Mix beef, onion, eggs, 4 minced garlic cloves, 3 Tbsp ketchup, breadcrumbs, 1/2 cup milk, 1.25 tsp salt, 1.25 tsp Italian seasoning and pepper. Press into a lined loaf pan.",
+    "Bake 40 minutes. Stir the remaining ketchup with 2 tsp vinegar, the brown sugar, garlic powder and onion powder; spread over the loaf and bake 20 minutes more.",
+    "Boil peeled, cubed potatoes until tender; mash with butter and the rest of the milk, warmed.",
+    "Rest the meatloaf 10 minutes, slice into 10. Serve with mashed potatoes and heated green beans."
+   ],
+   "temp": "Meatloaf to 160°F in the centre (ADHS minimum for ground beef is 155°F).",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/meatloaf-recipe/",
+    4.98,
+    9848,
+    false
+   ],
+   "n": {
+    "kcal": 650,
+    "protein": 30,
+    "sodium": 900,
+    "fruit": 0,
+    "veg": 1.25,
+    "grains": 1.25,
+    "prot": 3,
+    "dairy": 0.1
+   }
+  },
+  "d3": {
+   "name": "Shepherd's pie with mixed vegetables, steamed broccoli, dinner roll",
+   "short": "Shepherd's pie",
+   "type": "dinner",
+   "items": [
+    [
+     "potato",
+     2.5
+    ],
+    [
+     "cream",
+     1
+    ],
+    [
+     "parmesan",
+     0.3
+    ],
+    [
+     "eggs",
+     1
+    ],
+    [
+     "butter",
+     3
+    ],
+    [
+     "ground_beef",
+     1.75
+    ],
+    [
+     "onion",
+     0.6
+    ],
+    [
+     "flour",
+     0.03
+    ],
+    [
+     "broth",
+     2
+    ],
+    [
+     "tomato_paste",
+     0.25
+    ],
+    [
+     "frozen_veg",
+     2
+    ],
+    [
+     "broccoli",
+     2
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 400°F. Boil peeled potatoes until tender; mash with warm cream, salt, Parmesan and the beaten egg.",
+    "Brown the beef in 1 Tbsp oil with salt and pepper. Add chopped onion and 3 minced garlic cloves; cook until soft.",
+    "Stir in the flour, then the broth, tomato paste and 1 Tbsp Worcestershire. Simmer until thick, then add the frozen vegetables.",
+    "Spread the filling in a 9×13 dish, top with the potatoes and brush with melted butter.",
+    "Bake 25–30 minutes until golden. Serve with steamed broccoli."
+   ],
+   "temp": "Ground beef to 155°F; pie hot through (165°F).",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/shepherds-pie-recipe/",
+    4.98,
+    629,
+    true
+   ],
+   "n": {
+    "kcal": 590,
+    "protein": 24,
+    "sodium": 780,
+    "fruit": 0,
+    "veg": 1.4,
+    "grains": 1,
+    "prot": 2,
+    "dairy": 0.2
+   }
+  },
+  "d4": {
+   "name": "Baked salmon with lemon and Dijon, rice, broccoli, salad",
+   "short": "Baked salmon",
+   "type": "dinner",
+   "items": [
+    [
+     "salmon",
+     2.5
+    ],
+    [
+     "lemon",
+     2
+    ],
+    [
+     "rice",
+     1.1
+    ],
+    [
+     "broccoli",
+     2.5
+    ],
+    [
+     "butter",
+     3
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 450°F. Line a rimmed pan and lay the salmon on it, cut into 10 portions of about 4 oz.",
+    "Stir 3 Tbsp oil, 3 Tbsp lemon juice, 4 minced garlic cloves, 1 Tbsp Dijon, chopped parsley, 3/4 tsp salt and pepper. Spread over the fish.",
+    "Bake uncovered 12–15 minutes until it flakes easily. Check carefully for bones before serving.",
+    "Cook the rice in 5 cups water with a pinch of salt, 18 minutes covered. Steam the broccoli until soft and toss with butter.",
+    "Serve with a small green salad."
+   ],
+   "temp": "Salmon to 145°F at the thickest part.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/baked-salmon-with-garlic-and-dijon/",
+    4.98,
+    1208,
+    true
+   ],
+   "n": {
+    "kcal": 470,
+    "protein": 27,
+    "sodium": 330,
+    "fruit": 0,
+    "veg": 1.25,
+    "grains": 1.5,
+    "prot": 3.5,
+    "dairy": 0
+   }
+  },
+  "d5": {
+   "name": "Chicken pot pie, green beans, salad",
+   "short": "Chicken pot pie",
+   "type": "dinner",
+   "items": [
+    [
+     "pie_crust",
+     1.25
+    ],
+    [
+     "chicken_breast",
+     2
+    ],
+    [
+     "butter",
+     8
+    ],
+    [
+     "onion",
+     0.6
+    ],
+    [
+     "carrot",
+     0.5
+    ],
+    [
+     "mushroom",
+     1.25
+    ],
+    [
+     "flour",
+     0.15
+    ],
+    [
+     "broth",
+     2.5
+    ],
+    [
+     "cream",
+     0.6
+    ],
+    [
+     "frozen_veg",
+     1
+    ],
+    [
+     "eggs",
+     1
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Poach the chicken until cooked, then shred (about 5 cups). Heat oven to 425°F.",
+    "Melt the butter in a deep pan. Cook chopped onion, sliced carrots and mushrooms about 8 minutes; add 4 minced garlic cloves.",
+    "Stir in the flour for 1 minute, then the broth and cream. Simmer until thick. Season with 2 tsp salt and pepper; add the chicken, peas and parsley.",
+    "Line a deep dish with one crust, fill, top with the second crust, crimp, cut vents and brush with beaten egg. For 10 residents use a 9×13 dish with crust on top only.",
+    "Bake 30–35 minutes until deep golden. Rest 15 minutes. Serve with green beans and salad."
+   ],
+   "temp": "Chicken to 165°F; filling bubbling.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/chicken-pot-pie-recipe/",
+    4.98,
+    1932,
+    true
+   ],
+   "n": {
+    "kcal": 560,
+    "protein": 26,
+    "sodium": 760,
+    "fruit": 0,
+    "veg": 1.4,
+    "grains": 1.5,
+    "prot": 2.5,
+    "dairy": 0.1
+   }
+  },
+  "d6": {
+   "name": "Baked ziti with Italian sausage and ricotta, green beans, salad",
+   "short": "Baked ziti",
+   "type": "dinner",
+   "items": [
+    [
+     "sausage",
+     1.25
+    ],
+    [
+     "onion",
+     0.4
+    ],
+    [
+     "pasta_sauce",
+     1.1
+    ],
+    [
+     "tomato_can",
+     1.25
+    ],
+    [
+     "pasta",
+     1.25
+    ],
+    [
+     "ricotta",
+     1.25
+    ],
+    [
+     "eggs",
+     1
+    ],
+    [
+     "cheese_shred",
+     2.5
+    ],
+    [
+     "parmesan",
+     0.3
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 375°F. Brown the sausage with the diced onion; drain the fat.",
+    "Add the pasta sauce, diced tomatoes, 2/3 cup water and 2.5 tsp Italian seasoning. Simmer 10 minutes.",
+    "Boil the pasta 2 minutes less than the package says, drain and toss with the sauce.",
+    "Mix ricotta, egg, parsley and 1 cup of the mozzarella. Layer half the pasta, all the ricotta, then the rest of the pasta in a 9×13 dish. Top with the remaining cheeses.",
+    "Bake uncovered 25–30 minutes until bubbly. Serve with green beans and salad."
+   ],
+   "temp": "Pork sausage to 155°F; casserole to 165°F.",
+   "src": [
+    "Spend With Pennies",
+    "https://www.spendwithpennies.com/baked-ziti/",
+    4.97,
+    610,
+    false
+   ],
+   "n": {
+    "kcal": 590,
+    "protein": 27,
+    "sodium": 980,
+    "fruit": 0,
+    "veg": 1.5,
+    "grains": 2,
+    "prot": 2,
+    "dairy": 1
+   }
+  },
+  "d7": {
+   "name": "Oven-baked chicken drumsticks, rice, green beans, corn, salad",
+   "short": "Baked chicken drumsticks",
+   "type": "dinner",
+   "items": [
+    [
+     "chicken_drum",
+     5
+    ],
+    [
+     "rice",
+     1.1
+    ],
+    [
+     "canned_veg",
+     6
+    ],
+    [
+     "butter",
+     2
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 425°F. Pat the 20 drumsticks dry.",
+    "Toss with 3 Tbsp oil, 1 Tbsp smoked paprika, 2 tsp garlic powder, 2 tsp onion powder, 2 tsp oregano, 2 tsp salt and pepper.",
+    "Space out on two lined baking sheets. Bake about 40 minutes, turning once.",
+    "Cook the rice in 5 cups water, 18 minutes covered. Heat the green beans and the corn with the butter.",
+    "Serve 2 drumsticks each; take the meat off the bone for residents who need it."
+   ],
+   "temp": "Chicken to at least 165°F (175°F gives the most tender drumsticks).",
+   "src": [
+    "Budget Bytes",
+    "https://www.budgetbytes.com/baked-chicken-drumsticks/",
+    4.83,
+    75,
+    true
+   ],
+   "n": {
+    "kcal": 520,
+    "protein": 33,
+    "sodium": 620,
+    "fruit": 0,
+    "veg": 1.5,
+    "grains": 1.5,
+    "prot": 3.5,
+    "dairy": 0
+   }
+  },
+  "d8": {
+   "name": "Spaghetti with meat sauce and Parmesan, green beans, salad",
+   "short": "Spaghetti with meat sauce",
+   "type": "dinner",
+   "items": [
+    [
+     "ground_beef",
+     1.75
+    ],
+    [
+     "onion",
+     0.6
+    ],
+    [
+     "tomato_can",
+     4
+    ],
+    [
+     "tomato_paste",
+     0.25
+    ],
+    [
+     "pasta",
+     1.5
+    ],
+    [
+     "parmesan",
+     0.5
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Brown the beef in 1 Tbsp oil with 1 tsp salt and pepper, breaking it up. Add the diced onion and cook until soft; add 5 minced garlic cloves.",
+    "Stir in the tomato paste, 1 tsp oregano, 1 tsp basil, the tomatoes (crush them with a spoon), and 1 tsp sugar.",
+    "Partly cover and simmer on low 30–40 minutes, stirring now and then.",
+    "Boil the spaghetti until soft; drain. For easier eating, break the spaghetti in half before boiling.",
+    "Serve the sauce over pasta with Parmesan, green beans and salad."
+   ],
+   "temp": "Ground beef to 155°F; reheat leftovers to 165°F.",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/spaghetti-meat-sauce-recipe/",
+    4.95,
+    218,
+    true
+   ],
+   "n": {
+    "kcal": 540,
+    "protein": 26,
+    "sodium": 720,
+    "fruit": 0,
+    "veg": 1.6,
+    "grains": 2.25,
+    "prot": 2.25,
+    "dairy": 0.15
+   }
+  },
+  "d9": {
+   "name": "Roasted bone-in chicken breast, roasted potatoes, corn, dinner roll",
+   "short": "Roasted chicken breast",
+   "type": "dinner",
+   "items": [
+    [
+     "chicken_split",
+     4.5
+    ],
+    [
+     "potato",
+     3
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "butter",
+     2
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 425°F. Rub 5 large split chicken breasts with 3 Tbsp oil, 1 tsp Italian seasoning, 1 tsp paprika, salt and pepper.",
+    "Toss potato chunks with oil, salt and pepper on a second pan.",
+    "Roast chicken skin-side up 40–50 minutes; roast the potatoes alongside, turning once.",
+    "Rest the chicken 5 minutes, then carve each breast off the bone into 2 portions.",
+    "Serve with the potatoes and buttered corn."
+   ],
+   "temp": "Chicken to 165°F.",
+   "src": [
+    "Spend With Pennies",
+    "https://www.spendwithpennies.com/roasted-chicken/",
+    4.97,
+    318,
+    false
+   ],
+   "n": {
+    "kcal": 540,
+    "protein": 40,
+    "sodium": 540,
+    "fruit": 0,
+    "veg": 1.25,
+    "grains": 1,
+    "prot": 4,
+    "dairy": 0
+   }
+  },
+  "d10": {
+   "name": "Herb-butter roast chicken, mashed potatoes, glazed carrots, dinner roll",
+   "short": "Roast whole chicken",
+   "type": "dinner",
+   "items": [
+    [
+     "chicken_whole",
+     9
+    ],
+    [
+     "butter",
+     15
+    ],
+    [
+     "lemon",
+     2
+    ],
+    [
+     "onion",
+     1
+    ],
+    [
+     "broth",
+     2
+    ],
+    [
+     "potato",
+     4
+    ],
+    [
+     "milk",
+     1
+    ],
+    [
+     "carrot",
+     2
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 450°F. Pat two 4.5 lb chickens dry. Mix 10 Tbsp melted butter with 4 minced garlic cloves, sage, rosemary, parsley, salt and pepper.",
+    "Put quartered onions in two roasting pans with 1 cup broth each. Set a chicken on top, lemon quarters inside, and spoon the herb butter over and under the skin.",
+    "Roast 10 minutes, lower to 350°F and roast about 1 hour 15 minutes more, basting twice. Rest 15 minutes, then carve.",
+    "Boil and mash the potatoes with 5 Tbsp butter and warm milk. Simmer sliced carrots until soft and toss with a little of the pan juices.",
+    "Serve chicken with pan juices, mashed potatoes and carrots."
+   ],
+   "temp": "Chicken to 165°F in the thickest part of the thigh.",
+   "src": [
+    "RecipeTin Eats",
+    "https://www.recipetineats.com/roast-chicken/",
+    4.94,
+    346,
+    true
+   ],
+   "n": {
+    "kcal": 610,
+    "protein": 38,
+    "sodium": 560,
+    "fruit": 0,
+    "veg": 1.35,
+    "grains": 1,
+    "prot": 4,
+    "dairy": 0.1
+   }
+  },
+  "d11": {
+   "name": "Beef and rice stuffed bell peppers with cheese, salad, dinner roll",
+   "short": "Stuffed peppers",
+   "type": "dinner",
+   "items": [
+    [
+     "bell_pepper",
+     10
+    ],
+    [
+     "ground_beef",
+     1.75
+    ],
+    [
+     "rice",
+     0.5
+    ],
+    [
+     "onion",
+     0.5
+    ],
+    [
+     "tomato_can",
+     4
+    ],
+    [
+     "cheese_shred",
+     2.5
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 400°F. Cook the rice. Cut the tops off the peppers and remove the seeds; stand them in a baking dish.",
+    "Brown the beef with the chopped onion in 1 Tbsp oil; add 3 minced garlic cloves. Drain the fat.",
+    "Stir in the rice, 2 cans diced tomatoes, 1/2 can tomato sauce, 2 tsp Italian seasoning, salt, pepper and half the cheese. Fill the peppers.",
+    "Pour the remaining tomato sauce around the peppers. Cover with foil and bake 20 minutes at 400°F, then 20 minutes at 350°F.",
+    "Uncover, top with the rest of the cheese and bake 10–15 minutes until the peppers are soft. Serve with salad and a roll."
+   ],
+   "temp": "Ground beef to 155°F; filling to 165°F.",
+   "src": [
+    "Cooking Classy",
+    "https://www.cookingclassy.com/stuffed-peppers/",
+    4.97,
+    78,
+    true
+   ],
+   "n": {
+    "kcal": 490,
+    "protein": 24,
+    "sodium": 700,
+    "fruit": 0,
+    "veg": 1.8,
+    "grains": 1.5,
+    "prot": 2.25,
+    "dairy": 0.4
+   }
+  },
+  "d12": {
+   "name": "Brown sugar glazed ham, scalloped potatoes, green beans, dinner roll",
+   "short": "Glazed ham & scalloped potatoes",
+   "type": "dinner",
+   "items": [
+    [
+     "ham",
+     5
+    ],
+    [
+     "brown_sugar",
+     0.25
+    ],
+    [
+     "potato",
+     3.75
+    ],
+    [
+     "onion",
+     0.3
+    ],
+    [
+     "cheese_shred",
+     3.75
+    ],
+    [
+     "cream",
+     2.5
+    ],
+    [
+     "milk",
+     1.25
+    ],
+    [
+     "butter",
+     5
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     10
+    ]
+   ],
+   "steps": [
+    "Heat oven to 325°F. Place the ham cut-side down in a pan, brush with 2 Tbsp Dijon mixed with 1/4 cup orange or pineapple juice, cover with foil and bake 12–15 minutes per pound.",
+    "Simmer 1/2 cup juice, the brown sugar, 2 Tbsp Dijon, 1/4 tsp ginger and 2 tsp cornstarch until syrupy. Brush over the ham for the last 15 minutes at 425°F.",
+    "Scalloped potatoes (start first, 375°F): layer thinly sliced potatoes and onion with the cheese in a buttered 9×13 dish. Warm cream, milk, butter, garlic, 1 tsp salt and pepper and pour over.",
+    "Bake the potatoes covered 1 hour, then uncovered 30–45 minutes until tender and golden.",
+    "Slice the ham thin. Serve with scalloped potatoes and green beans. This plate is high in sodium."
+   ],
+   "temp": "Fully cooked ham reheated to 140°F; pork products 155°F under ADHS rule.",
+   "src": [
+    "Spend With Pennies",
+    "https://www.spendwithpennies.com/baked-ham-with-brown-sugar-glaze/",
+    5,
+    806,
+    false
+   ],
+   "src2": [
+    "Scalloped potatoes: Natasha's Kitchen",
+    "https://natashaskitchen.com/scalloped-potatoes-recipe/",
+    4.93,
+    78,
+    false
+   ],
+   "n": {
+    "kcal": 670,
+    "protein": 29,
+    "sodium": 1530,
+    "fruit": 0,
+    "veg": 1.25,
+    "grains": 1,
+    "prot": 3,
+    "dairy": 0.75
+   }
+  },
+  "s1": {
+   "name": "Apple or pear slices",
+   "short": "Apple or pear slices",
+   "type": "snack",
+   "items": [
+    [
+     "apple",
+     3
+    ]
+   ],
+   "steps": [
+    "Wash, core and slice thin just before serving."
+   ],
+   "temp": "",
+   "src": null,
+   "n": {
+    "kcal": 80,
+    "protein": 0,
+    "sodium": 0,
+    "fruit": 0.75,
+    "veg": 0,
+    "grains": 0,
+    "prot": 0,
+    "dairy": 0
+   }
+  },
+  "s2": {
+   "name": "Yogurt cup",
+   "short": "Yogurt cup",
+   "type": "snack",
+   "items": [
+    [
+     "yogurt_cup",
+     10
+    ]
+   ],
+   "steps": [
+    "Serve chilled."
+   ],
+   "temp": "Hold at 41°F or below.",
+   "src": null,
+   "n": {
+    "kcal": 100,
+    "protein": 5,
+    "sodium": 70,
+    "fruit": 0,
+    "veg": 0,
+    "grains": 0,
+    "prot": 0,
+    "dairy": 0.6
+   }
+  },
+  "s3": {
+   "name": "Cheese and crackers",
+   "short": "Cheese & crackers",
+   "type": "snack",
+   "items": [
+    [
+     "cheese_slice",
+     10
+    ],
+    [
+     "crackers",
+     2
+    ]
+   ],
+   "steps": [
+    "Cut each cheese slice in quarters and serve with 5–6 crackers."
+   ],
+   "temp": "",
+   "src": null,
+   "n": {
+    "kcal": 180,
+    "protein": 7,
+    "sodium": 300,
+    "fruit": 0,
+    "veg": 0,
+    "grains": 0.75,
+    "prot": 0,
+    "dairy": 0.5
+   }
+  },
+  "s4": {
+   "name": "Soft oatmeal raisin cookies (2)",
+   "short": "Oatmeal raisin cookies",
+   "type": "snack",
+   "items": [
+    [
+     "butter",
+     11
+    ],
+    [
+     "brown_sugar",
+     0.3
+    ],
+    [
+     "sugar",
+     0.08
+    ],
+    [
+     "eggs",
+     2
+    ],
+    [
+     "flour",
+     0.33
+    ],
+    [
+     "oats",
+     0.4
+    ],
+    [
+     "raisins",
+     0.7
+    ],
+    [
+     "pantry",
+     5
+    ]
+   ],
+   "steps": [
+    "Cream the softened butter with both sugars. Beat in the eggs, 1.5 tsp vanilla and 2 tsp molasses.",
+    "Stir in the flour, 3/4 tsp baking soda, 1 tsp cinnamon and 1/3 tsp salt, then the oats and raisins. Chill the dough 30 minutes.",
+    "Scoop 20 balls onto lined sheets. Bake at 350°F for 13 minutes; the centres should look slightly soft.",
+    "Cool on the pan 5 minutes."
+   ],
+   "temp": "",
+   "src": [
+    "Sally's Baking Addiction",
+    "https://sallysbakingaddiction.com/soft-chewy-oatmeal-raisin-cookies/",
+    4.7,
+    1115,
+    false
+   ],
+   "n": {
+    "kcal": 220,
+    "protein": 3,
+    "sodium": 130,
+    "fruit": 0,
+    "veg": 0,
+    "grains": 0.75,
+    "prot": 0,
+    "dairy": 0
+   }
+  },
+  "s5": {
+   "name": "Deviled eggs (2 halves)",
+   "short": "Deviled eggs",
+   "type": "snack",
+   "items": [
+    [
+     "eggs",
+     10
+    ],
+    [
+     "mayo",
+     0.3
+    ],
+    [
+     "pantry",
+     5
+    ]
+   ],
+   "steps": [
+    "Boil the eggs 14 minutes, cool in ice water and peel. Halve lengthwise.",
+    "Mash the yolks with the mayonnaise, 1.5 tsp Dijon, 1.5 tsp cider vinegar, salt and pepper.",
+    "Spoon or pipe into the whites and dust with paprika. Keep chilled."
+   ],
+   "temp": "Hold at 41°F or below.",
+   "src": [
+    "Downshiftology",
+    "https://downshiftology.com/recipes/deviled-eggs/",
+    4.88,
+    621,
+    true
+   ],
+   "n": {
+    "kcal": 110,
+    "protein": 6,
+    "sodium": 150,
+    "fruit": 0,
+    "veg": 0,
+    "grains": 0,
+    "prot": 1,
+    "dairy": 0
+   }
+  },
+  "s6": {
+   "name": "Banana bread slice",
+   "short": "Banana bread",
+   "type": "snack",
+   "items": [
+    [
+     "banana",
+     1.5
+    ],
+    [
+     "butter",
+     8
+    ],
+    [
+     "sugar",
+     0.33
+    ],
+    [
+     "eggs",
+     2
+    ],
+    [
+     "flour",
+     0.42
+    ],
+    [
+     "pantry",
+     5
+    ]
+   ],
+   "steps": [
+    "Make one loaf as in the breakfast banana bread recipe: cream butter and sugar, add eggs and 3 mashed bananas, fold in flour, 1 tsp baking soda and 1/2 tsp salt.",
+    "Bake at 350°F 55–60 minutes. Slice into 10."
+   ],
+   "temp": "",
+   "src": [
+    "Natasha's Kitchen",
+    "https://natashaskitchen.com/banana-bread-recipe-video/",
+    4.96,
+    7152,
+    true
+   ],
+   "n": {
+    "kcal": 230,
+    "protein": 3,
+    "sodium": 200,
+    "fruit": 0.2,
+    "veg": 0,
+    "grains": 1,
+    "prot": 0,
+    "dairy": 0
+   }
+  },
+  "s7": {
+   "name": "Mandarin orange",
+   "short": "Mandarin orange",
+   "type": "snack",
+   "items": [
+    [
+     "cuties",
+     10
+    ]
+   ],
+   "steps": [
+    "Peel and section for residents who need help."
+   ],
+   "temp": "",
+   "src": null,
+   "n": {
+    "kcal": 40,
+    "protein": 1,
+    "sodium": 0,
+    "fruit": 0.4,
+    "veg": 0,
+    "grains": 0,
+    "prot": 0,
+    "dairy": 0
+   }
+  },
+  "s8": {
+   "name": "Grapes, halved",
+   "short": "Grapes",
+   "type": "snack",
+   "items": [
+    [
+     "grapes",
+     2
+    ]
+   ],
+   "steps": [
+    "Wash and halve lengthwise."
+   ],
+   "temp": "",
+   "src": null,
+   "n": {
+    "kcal": 60,
+    "protein": 0,
+    "sodium": 0,
+    "fruit": 0.6,
+    "veg": 0,
+    "grains": 0,
+    "prot": 0,
+    "dairy": 0
+   }
+  },
+  "s9": {
+   "name": "Cucumber slices with sour cream dip",
+   "short": "Cucumber & dip",
+   "type": "snack",
+   "items": [
+    [
+     "cucumber",
+     3
+    ],
+    [
+     "sour_cream",
+     0.6
+    ],
+    [
+     "pantry",
+     5
+    ]
+   ],
+   "steps": [
+    "Slice the cucumbers thin. Stir a little dill, garlic powder and salt into the sour cream."
+   ],
+   "temp": "Hold dip at 41°F or below.",
+   "src": null,
+   "n": {
+    "kcal": 50,
+    "protein": 1,
+    "sodium": 90,
+    "fruit": 0,
+    "veg": 0.5,
+    "grains": 0,
+    "prot": 0,
+    "dairy": 0.1
+   }
+  }
+ },
+ "days": [
+  {
+   "day": "Monday",
+   "date": "11/16",
+   "breakfast": [
+    "b1",
+    "b5",
+    "b3"
+   ],
+   "lunch": [
+    "l1",
+    "l4",
+    "l7"
+   ],
+   "dinner": [
+    "d7",
+    "d8",
+    "d2"
+   ],
+   "snacks": [
+    "s1",
+    "s9",
+    "s2"
+   ]
+  },
+  {
+   "day": "Tuesday",
+   "date": "11/17",
+   "breakfast": [
+    "b2",
+    "b4",
+    "b6"
+   ],
+   "lunch": [
+    "l2",
+    "l5",
+    "l6"
+   ],
+   "dinner": [
+    "d1",
+    "d5",
+    "d11"
+   ],
+   "snacks": [
+    "s2",
+    "s4",
+    "s9"
+   ]
+  },
+  {
+   "day": "Wednesday",
+   "date": "11/18",
+   "breakfast": [
+    "b3",
+    "b5",
+    "b1"
+   ],
+   "lunch": [
+    "l3",
+    "l1",
+    "l7"
+   ],
+   "dinner": [
+    "d10",
+    "d6",
+    "d4"
+   ],
+   "snacks": [
+    "s8",
+    "s9",
+    "s3"
+   ]
+  },
+  {
+   "day": "Thursday",
+   "date": "11/19",
+   "breakfast": [
+    "b6",
+    "b1",
+    "b4"
+   ],
+   "lunch": [
+    "l4",
+    "l6",
+    "l5"
+   ],
+   "dinner": [
+    "d2",
+    "d9",
+    "d3"
+   ],
+   "snacks": [
+    "s1",
+    "s4",
+    "s9"
+   ]
+  },
+  {
+   "day": "Friday",
+   "date": "11/20",
+   "breakfast": [
+    "b5",
+    "b2",
+    "b3"
+   ],
+   "lunch": [
+    "l7",
+    "l2",
+    "l1"
+   ],
+   "dinner": [
+    "d4",
+    "d8",
+    "d7"
+   ],
+   "snacks": [
+    "s7",
+    "s9",
+    "s3"
+   ]
+  },
+  {
+   "day": "Saturday",
+   "date": "11/21",
+   "breakfast": [
+    "b2",
+    "b4",
+    "b1"
+   ],
+   "lunch": [
+    "l6",
+    "l3",
+    "l4"
+   ],
+   "dinner": [
+    "d11",
+    "d6",
+    "d1"
+   ],
+   "snacks": [
+    "s8",
+    "s4",
+    "s9"
+   ]
+  },
+  {
+   "day": "Sunday",
+   "date": "11/22",
+   "breakfast": [
+    "b1",
+    "b6",
+    "b4"
+   ],
+   "lunch": [
+    "l2",
+    "l5",
+    "l3"
+   ],
+   "dinner": [
+    "d5",
+    "d12",
+    "d10"
+   ],
+   "snacks": [
+    "s1",
+    "s3",
+    "s9"
+   ]
+  }
+ ],
+ "snackOptions": [
+  "s1",
+  "s2",
+  "s3",
+  "s4",
+  "s5",
+  "s6",
+  "s7",
+  "s8",
+  "s9"
+ ]
+}
