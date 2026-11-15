@@ -115,6 +115,8 @@ window.WEEK = {
     crackers:      ["Saltine or butter crackers", "sleeve", 1.00, "Walmart", "est", "", ""],
     raisins:       ["Raisins", "cup", 1.20, "Walmart", "est", "", ""],
     taco_seasoning:["Taco seasoning packet, mild", "packet", 0.79, "Walmart", "est", "", ""],
+    frozen_lc:     ["Lean Cuisine frozen entrée, single serve (4 for $10)", "each", 2.50, "Fry's", "sale", "fry", "Also $2.99 each at Safeway this week"],
+    frozen_st:     ["Stouffer's frozen entrée, single serve (4 for $10)", "each", 2.50, "Fry's", "sale", "fry", ""],
     pantry:        ["Seasonings, oil, garlic and condiments on hand", "serving", 0.10, "Pantry", "est", "", ""]
   },
   /* Served every day in addition to the menu; costed per resident per day. */
@@ -282,6 +284,31 @@ window.WEEK = {
       src2: ["Scalloped potatoes: Natasha's Kitchen", "https://natashaskitchen.com/scalloped-potatoes-recipe/", 4.93, 78, false],
       n: { kcal: 670, protein: 29, sodium: 1530, fruit: 0, veg: 1.25, grains: 1, prot: 3, dairy: 0.75 } },
 
+    fl1: { name: "Lean Cuisine Herb Roasted Chicken with potatoes and broccoli (frozen), dinner roll, apple slices", short: "Frozen: herb roasted chicken", type: "lunch", frozen: true,
+      items: [["frozen_lc",10],["rolls",10],["butter",3],["apple",2.5]],
+      steps: ["Keep the entrées frozen (0°F or below) until you cook them. Buy the Herb Roasted Chicken variety, 8 oz.","Heat each tray by the package directions; in an 1100-watt microwave that is about 4 minutes on high, stir the vegetables, then about 2 minutes more. Heat trays one or two at a time so they cook evenly.","Check the centre with a thermometer and let stand 1 minute.","Plate the meal off the tray, cut the chicken into bite-size pieces, and serve with a buttered roll and apple slices."],
+      temp: "Heat until the centre reaches 165°F.",
+      label: ["Nutrition label", "https://foodlion.com/groceries/product/lean-cuisine-protein-kick-herb-roasted-chicken-frozen-meal-8-oz-box/31387"], src: null,
+      n: { kcal: 350, protein: 20, sodium: 690, fruit: 0.5, veg: 0.75, grains: 1, prot: 2, dairy: 0 } },
+    fl2: { name: "Lean Cuisine Meatloaf with mashed potatoes and gravy (frozen), side salad, orange wedges", short: "Frozen: meatloaf & potatoes", type: "lunch", frozen: true,
+      items: [["frozen_lc",10],["salad",2.5],["orange",3],["pantry",5]],
+      steps: ["Keep the entrées frozen (0°F or below) until you cook them. Buy the Meatloaf with Mashed Potatoes variety, 9 3/8 oz.","Cut the film to vent and heat by the package directions; in an 1100-watt microwave that is about 4.5 minutes on high, stir the potatoes, then about 1.5 minutes more.","Check the centre with a thermometer and let stand 1 minute.","Plate the meal off the tray and serve with a small green salad and orange wedges."],
+      temp: "Heat until the centre reaches 165°F.",
+      label: ["Nutrition label", "https://www.goodnes.com/lean-cuisine/products/meatloaf-mashed-potatoes"], src: null,
+      n: { kcal: 350, protein: 20, sodium: 830, fruit: 0.5, veg: 1.0, grains: 0, prot: 2, dairy: 0 } },
+    fd1: { name: "Stouffer's Classic Meatloaf with mashed potatoes and gravy (frozen), green beans, dinner roll", short: "Frozen: Stouffer's meatloaf", type: "dinner", frozen: true,
+      items: [["frozen_st",10],["canned_veg",3],["rolls",10],["butter",3]],
+      steps: ["Keep the entrées frozen (0°F or below) until you cook them. Buy the Classic Meatloaf variety, 9 7/8 oz.","For 10 residents the oven is easier: heat to 350°F, leave the film on, set the trays on baking sheets and cook about 40 minutes. In the microwave, cook one tray about 6 minutes.","Check the centre with a thermometer and let stand 1 minute.","Plate the meal off the tray and serve with heated green beans and a buttered roll. This plate is high in sodium."],
+      temp: "Heat until the centre reaches 165°F.",
+      label: ["Nutrition label", "https://business.safeway.com/shop/product-details.148010333.html"], src: null,
+      n: { kcal: 470, protein: 25, sodium: 1210, fruit: 0, veg: 1.0, grains: 1, prot: 2.5, dairy: 0 } },
+    fd2: { name: "Stouffer's Lasagna with Meat & Sauce (frozen), side salad, dinner roll", short: "Frozen: Stouffer's lasagna", type: "dinner", frozen: true,
+      items: [["frozen_st",10],["salad",2.5],["rolls",10],["pantry",5]],
+      steps: ["Keep the entrées frozen (0°F or below) until you cook them. Buy the Lasagna with Meat & Sauce variety, 10.5 oz.","For 10 residents the oven is easier: heat to 350°F, set the trays on baking sheets and cook about 40 to 48 minutes as the package directs. In the microwave, cook one tray about 7 minutes.","Check the centre with a thermometer and let stand 1 minute.","Plate the lasagna off the tray, cut into small pieces, and serve with a small green salad and a roll. This plate is high in sodium."],
+      temp: "Heat until the centre reaches 165°F.",
+      label: ["Nutrition label", "https://shop.albertsons.com/product-details.148010064.html"], src: null,
+      n: { kcal: 480, protein: 25, sodium: 1160, fruit: 0, veg: 1.0, grains: 3, prot: 1.5, dairy: 0.5 } },
+
     s1: { name: "Apple or pear slices", short: "Apple or pear slices", type: "snack", items: [["apple",3]], steps: ["Wash, core and slice thin just before serving."], temp: "", src: null,
       n: { kcal: 80, protein: 0, sodium: 0, fruit: 0.75, veg: 0, grains: 0, prot: 0, dairy: 0 } },
     s2: { name: "Yogurt cup", short: "Yogurt cup", type: "snack", items: [["yogurt_cup",10]], steps: ["Serve chilled."], temp: "Hold at 41°F or below.", src: null,
@@ -309,15 +336,15 @@ window.WEEK = {
       steps: ["Slice the cucumbers thin. Stir a little dill, garlic powder and salt into the sour cream."], temp: "Hold dip at 41°F or below.", src: null,
       n: { kcal: 50, protein: 1, sodium: 90, fruit: 0, veg: 0.5, grains: 0, prot: 0, dairy: 0.1 } }
   },
-  /* Three choices per meal; the first is the pre-selected pick. Snacks: [10 AM, 3 PM, 8 PM] default picks. */
+  /* Three scratch choices per meal (the first is the pre-selected pick) plus a 4th heat-and-serve frozen choice for lunch and dinner. Snacks: [10 AM, 3 PM, 8 PM] default picks. */
   days: [
-    { day: "Monday",    date: "11/16", breakfast: ["b1","b5","b3"], lunch: ["l1","l4","l7"], dinner: ["d7","d8","d2"],   snacks: ["s1","s9","s2"] },
-    { day: "Tuesday",   date: "11/17", breakfast: ["b2","b4","b6"], lunch: ["l2","l5","l6"], dinner: ["d1","d5","d11"],  snacks: ["s2","s4","s9"] },
-    { day: "Wednesday", date: "11/18", breakfast: ["b3","b5","b1"], lunch: ["l3","l1","l7"], dinner: ["d10","d6","d4"],  snacks: ["s8","s9","s3"] },
-    { day: "Thursday",  date: "11/19", breakfast: ["b6","b1","b4"], lunch: ["l4","l6","l5"], dinner: ["d2","d9","d3"],   snacks: ["s1","s4","s9"] },
-    { day: "Friday",    date: "11/20", breakfast: ["b5","b2","b3"], lunch: ["l7","l2","l1"], dinner: ["d4","d8","d7"],   snacks: ["s7","s9","s3"] },
-    { day: "Saturday",  date: "11/21", breakfast: ["b2","b4","b1"], lunch: ["l6","l3","l4"], dinner: ["d11","d6","d1"],  snacks: ["s8","s4","s9"] },
-    { day: "Sunday",    date: "11/22", breakfast: ["b1","b6","b4"], lunch: ["l2","l5","l3"], dinner: ["d5","d12","d10"], snacks: ["s1","s3","s9"] }
+    { day: "Monday",    date: "11/16", breakfast: ["b1","b5","b3"], lunch: ["l1","l4","l7","fl1"], dinner: ["d7","d8","d2","fd1"],   snacks: ["s1","s9","s2"] },
+    { day: "Tuesday",   date: "11/17", breakfast: ["b2","b4","b6"], lunch: ["l2","l5","l6","fl2"], dinner: ["d1","d5","d11","fd2"],  snacks: ["s2","s4","s9"] },
+    { day: "Wednesday", date: "11/18", breakfast: ["b3","b5","b1"], lunch: ["l3","l1","l7","fl1"], dinner: ["d10","d6","d4","fd1"],  snacks: ["s8","s9","s3"] },
+    { day: "Thursday",  date: "11/19", breakfast: ["b6","b1","b4"], lunch: ["l4","l6","l5","fl2"], dinner: ["d2","d9","d3","fd2"],   snacks: ["s1","s4","s9"] },
+    { day: "Friday",    date: "11/20", breakfast: ["b5","b2","b3"], lunch: ["l7","l2","l1","fl1"], dinner: ["d4","d8","d7","fd1"],   snacks: ["s7","s9","s3"] },
+    { day: "Saturday",  date: "11/21", breakfast: ["b2","b4","b1"], lunch: ["l6","l3","l4","fl2"], dinner: ["d11","d6","d1","fd2"],  snacks: ["s8","s4","s9"] },
+    { day: "Sunday",    date: "11/22", breakfast: ["b1","b6","b4"], lunch: ["l2","l5","l3","fl1"], dinner: ["d5","d12","d10","fd1"], snacks: ["s1","s3","s9"] }
   ],
   snackOptions: ["s1","s2","s3","s4","s5","s6","s7","s8","s9"]
 };

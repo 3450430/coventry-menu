@@ -745,6 +745,24 @@
    "",
    ""
   ],
+  "frozen_lc": [
+   "Lean Cuisine frozen entrée, single serve (4 for $10)",
+   "each",
+   2.5,
+   "Fry's",
+   "sale",
+   "fry",
+   "Also $2.99 each at Safeway this week"
+  ],
+  "frozen_st": [
+   "Stouffer's frozen entrée, single serve (4 for $10)",
+   "each",
+   2.5,
+   "Fry's",
+   "sale",
+   "fry",
+   ""
+  ],
   "pantry": [
    "Seasonings, oil, garlic and condiments on hand",
    "serving",
@@ -2550,6 +2568,190 @@
     "dairy": 0.75
    }
   },
+  "fl1": {
+   "name": "Lean Cuisine Herb Roasted Chicken with potatoes and broccoli (frozen), dinner roll, apple slices",
+   "short": "Frozen: herb roasted chicken",
+   "type": "lunch",
+   "frozen": true,
+   "items": [
+    [
+     "frozen_lc",
+     10
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "butter",
+     3
+    ],
+    [
+     "apple",
+     2.5
+    ]
+   ],
+   "steps": [
+    "Keep the entrées frozen (0°F or below) until you cook them. Buy the Herb Roasted Chicken variety, 8 oz.",
+    "Heat each tray by the package directions; in an 1100-watt microwave that is about 4 minutes on high, stir the vegetables, then about 2 minutes more. Heat trays one or two at a time so they cook evenly.",
+    "Check the centre with a thermometer and let stand 1 minute.",
+    "Plate the meal off the tray, cut the chicken into bite-size pieces, and serve with a buttered roll and apple slices."
+   ],
+   "temp": "Heat until the centre reaches 165°F.",
+   "label": [
+    "Nutrition label",
+    "https://foodlion.com/groceries/product/lean-cuisine-protein-kick-herb-roasted-chicken-frozen-meal-8-oz-box/31387"
+   ],
+   "src": null,
+   "n": {
+    "kcal": 350,
+    "protein": 20,
+    "sodium": 690,
+    "fruit": 0.5,
+    "veg": 0.75,
+    "grains": 1,
+    "prot": 2,
+    "dairy": 0
+   }
+  },
+  "fl2": {
+   "name": "Lean Cuisine Meatloaf with mashed potatoes and gravy (frozen), side salad, orange wedges",
+   "short": "Frozen: meatloaf & potatoes",
+   "type": "lunch",
+   "frozen": true,
+   "items": [
+    [
+     "frozen_lc",
+     10
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "orange",
+     3
+    ],
+    [
+     "pantry",
+     5
+    ]
+   ],
+   "steps": [
+    "Keep the entrées frozen (0°F or below) until you cook them. Buy the Meatloaf with Mashed Potatoes variety, 9 3/8 oz.",
+    "Cut the film to vent and heat by the package directions; in an 1100-watt microwave that is about 4.5 minutes on high, stir the potatoes, then about 1.5 minutes more.",
+    "Check the centre with a thermometer and let stand 1 minute.",
+    "Plate the meal off the tray and serve with a small green salad and orange wedges."
+   ],
+   "temp": "Heat until the centre reaches 165°F.",
+   "label": [
+    "Nutrition label",
+    "https://www.goodnes.com/lean-cuisine/products/meatloaf-mashed-potatoes"
+   ],
+   "src": null,
+   "n": {
+    "kcal": 350,
+    "protein": 20,
+    "sodium": 830,
+    "fruit": 0.5,
+    "veg": 1,
+    "grains": 0,
+    "prot": 2,
+    "dairy": 0
+   }
+  },
+  "fd1": {
+   "name": "Stouffer's Classic Meatloaf with mashed potatoes and gravy (frozen), green beans, dinner roll",
+   "short": "Frozen: Stouffer's meatloaf",
+   "type": "dinner",
+   "frozen": true,
+   "items": [
+    [
+     "frozen_st",
+     10
+    ],
+    [
+     "canned_veg",
+     3
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "butter",
+     3
+    ]
+   ],
+   "steps": [
+    "Keep the entrées frozen (0°F or below) until you cook them. Buy the Classic Meatloaf variety, 9 7/8 oz.",
+    "For 10 residents the oven is easier: heat to 350°F, leave the film on, set the trays on baking sheets and cook about 40 minutes. In the microwave, cook one tray about 6 minutes.",
+    "Check the centre with a thermometer and let stand 1 minute.",
+    "Plate the meal off the tray and serve with heated green beans and a buttered roll. This plate is high in sodium."
+   ],
+   "temp": "Heat until the centre reaches 165°F.",
+   "label": [
+    "Nutrition label",
+    "https://business.safeway.com/shop/product-details.148010333.html"
+   ],
+   "src": null,
+   "n": {
+    "kcal": 470,
+    "protein": 25,
+    "sodium": 1210,
+    "fruit": 0,
+    "veg": 1,
+    "grains": 1,
+    "prot": 2.5,
+    "dairy": 0
+   }
+  },
+  "fd2": {
+   "name": "Stouffer's Lasagna with Meat & Sauce (frozen), side salad, dinner roll",
+   "short": "Frozen: Stouffer's lasagna",
+   "type": "dinner",
+   "frozen": true,
+   "items": [
+    [
+     "frozen_st",
+     10
+    ],
+    [
+     "salad",
+     2.5
+    ],
+    [
+     "rolls",
+     10
+    ],
+    [
+     "pantry",
+     5
+    ]
+   ],
+   "steps": [
+    "Keep the entrées frozen (0°F or below) until you cook them. Buy the Lasagna with Meat & Sauce variety, 10.5 oz.",
+    "For 10 residents the oven is easier: heat to 350°F, set the trays on baking sheets and cook about 40 to 48 minutes as the package directs. In the microwave, cook one tray about 7 minutes.",
+    "Check the centre with a thermometer and let stand 1 minute.",
+    "Plate the lasagna off the tray, cut into small pieces, and serve with a small green salad and a roll. This plate is high in sodium."
+   ],
+   "temp": "Heat until the centre reaches 165°F.",
+   "label": [
+    "Nutrition label",
+    "https://shop.albertsons.com/product-details.148010064.html"
+   ],
+   "src": null,
+   "n": {
+    "kcal": 480,
+    "protein": 25,
+    "sodium": 1160,
+    "fruit": 0,
+    "veg": 1,
+    "grains": 3,
+    "prot": 1.5,
+    "dairy": 0.5
+   }
+  },
   "s1": {
    "name": "Apple or pear slices",
    "short": "Apple or pear slices",
@@ -2889,12 +3091,14 @@
    "lunch": [
     "l1",
     "l4",
-    "l7"
+    "l7",
+    "fl1"
    ],
    "dinner": [
     "d7",
     "d8",
-    "d2"
+    "d2",
+    "fd1"
    ],
    "snacks": [
     "s1",
@@ -2913,12 +3117,14 @@
    "lunch": [
     "l2",
     "l5",
-    "l6"
+    "l6",
+    "fl2"
    ],
    "dinner": [
     "d1",
     "d5",
-    "d11"
+    "d11",
+    "fd2"
    ],
    "snacks": [
     "s2",
@@ -2937,12 +3143,14 @@
    "lunch": [
     "l3",
     "l1",
-    "l7"
+    "l7",
+    "fl1"
    ],
    "dinner": [
     "d10",
     "d6",
-    "d4"
+    "d4",
+    "fd1"
    ],
    "snacks": [
     "s8",
@@ -2961,12 +3169,14 @@
    "lunch": [
     "l4",
     "l6",
-    "l5"
+    "l5",
+    "fl2"
    ],
    "dinner": [
     "d2",
     "d9",
-    "d3"
+    "d3",
+    "fd2"
    ],
    "snacks": [
     "s1",
@@ -2985,12 +3195,14 @@
    "lunch": [
     "l7",
     "l2",
-    "l1"
+    "l1",
+    "fl1"
    ],
    "dinner": [
     "d4",
     "d8",
-    "d7"
+    "d7",
+    "fd1"
    ],
    "snacks": [
     "s7",
@@ -3009,12 +3221,14 @@
    "lunch": [
     "l6",
     "l3",
-    "l4"
+    "l4",
+    "fl2"
    ],
    "dinner": [
     "d11",
     "d6",
-    "d1"
+    "d1",
+    "fd2"
    ],
    "snacks": [
     "s8",
@@ -3033,12 +3247,14 @@
    "lunch": [
     "l2",
     "l5",
-    "l3"
+    "l3",
+    "fl1"
    ],
    "dinner": [
     "d5",
     "d12",
-    "d10"
+    "d10",
+    "fd1"
    ],
    "snacks": [
     "s1",

@@ -184,7 +184,7 @@
     return '<button type="button" class="opt' + (on ? " on" : "") + '" data-di="' + di + '" data-slot="' + slot + '" data-rid="' + rid + '" aria-pressed="' + on + '">' +
       '<span class="opt-top"><span class="opt-name">' + esc(r.short) + '</span><span class="opt-price">' + money(perResident(rid)) + '</span></span>' +
       '<span class="opt-desc">' + esc(r.name) + '</span>' +
-      '<span class="opt-meta">' + stars(r.src) + deals.map(function (d) { return '<span class="deal">' + esc(d.store) + ': ' + esc(d.name.split(",")[0].replace(/\s*\(.*\)$/, "")) + ' ' + money(d.price) + '/' + d.unit + '</span>'; }).join("") + '</span></button>';
+      '<span class="opt-meta">' + (r.frozen ? '<span class="tag frozen">Frozen, heat and serve</span>' : stars(r.src)) + deals.map(function (d) { return '<span class="deal">' + esc(d.store) + ': ' + esc(d.name.split(",")[0].replace(/\s*\(.*\)$/, "")) + ' ' + money(d.price) + '/' + d.unit + '</span>'; }).join("") + '</span></button>';
   }
   function renderPlan() {
     var h = "";
@@ -226,13 +226,13 @@
     $("costs").innerHTML = h;
   }
   function renderRecipes() {
-    var n = state.n, h = '<p class="note">Recipes for the meals picked on the Plan tab, scaled for ' + n + ' residents. Every recipe is adapted from a source rated 4.5 stars or higher; the rating and count shown are what the source page displayed on ' + W.refreshed + '.</p>';
+    var n = state.n, h = '<p class="note">Recipes for the meals picked on the Plan tab, scaled for ' + n + ' residents. Every scratch recipe is adapted from a source rated 4.5 stars or higher; the rating and count shown are what the source page displayed on ' + W.refreshed + '. Frozen heat-and-serve choices are store-bought entrées, so they carry the package nutrition label instead of a recipe rating.</p>';
     usedRecipes(state).forEach(function (rid) {
       var r = R[rid]; if (r.steps.length < 2) return;
-      var vid = r.src && r.src[4] ? '<a class="btn-link" href="' + r.src[1] + '" target="_blank" rel="noopener">▶ Watch the video on ' + esc(r.src[0]) + '</a>' : '<a class="btn-link ghost" href="https://www.youtube.com/results?search_query=' + encodeURIComponent(r.short + " recipe") + '" target="_blank" rel="noopener">Find a video on YouTube</a>';
-      h += '<article class="recipe"><header><div><span class="eyebrow">' + r.type + '</span><h3>' + esc(r.name) + '</h3></div><div class="r-meta">' + stars(r.src) + '<span class="num">' + money(perResident(rid)) + ' per resident</span></div></header><div class="r-body"><div><h4>Ingredients for ' + n + '</h4><ul>' +
+      var vid = r.frozen ? '' : r.src && r.src[4] ? '<a class="btn-link" href="' + r.src[1] + '" target="_blank" rel="noopener">▶ Watch the video on ' + esc(r.src[0]) + '</a>' : '<a class="btn-link ghost" href="https://www.youtube.com/results?search_query=' + encodeURIComponent(r.short + " recipe") + '" target="_blank" rel="noopener">Find a video on YouTube</a>';
+      h += '<article class="recipe"><header><div><span class="eyebrow">' + r.type + (r.frozen ? ' · frozen, heat and serve' : '') + '</span><h3>' + esc(r.name) + '</h3></div><div class="r-meta">' + stars(r.src) + '<span class="num">' + money(perResident(rid)) + ' per resident</span></div></header><div class="r-body"><div><h4>Ingredients for ' + n + '</h4><ul>' +
         r.items.filter(function (it) { return it[0] !== "pantry"; }).map(function (it) { var i = ing(it[0]), q = it[1] * n / 10; return '<li><b>' + qty(q) + ' ' + unitLabel(i.unit, q) + '</b> ' + esc(i.name.replace(/\s*\(.*\)$/, "")) + '</li>'; }).join("") + '</ul></div><div><h4>Method</h4><ol>' + r.steps.map(function (s) { return '<li>' + esc(s) + '</li>'; }).join("") + '</ol>' +
-        (r.temp ? '<p class="temp"><b>Safe temperature</b> ' + esc(r.temp) + '</p>' : '') + '<p class="r-links">' + vid + (r.src ? '<a class="btn-link ghost" href="' + r.src[1] + '" target="_blank" rel="noopener">Original recipe and reviews</a>' : '') + (r.src2 ? '<a class="btn-link ghost" href="' + r.src2[1] + '" target="_blank" rel="noopener">' + esc(r.src2[0]) + ' ★ ' + r.src2[2] + '</a>' : '') + '</p></div></div></article>';
+        (r.temp ? '<p class="temp"><b>Safe temperature</b> ' + esc(r.temp) + '</p>' : '') + '<p class="r-links">' + vid + (r.src ? '<a class="btn-link ghost" href="' + r.src[1] + '" target="_blank" rel="noopener">Original recipe and reviews</a>' : '') + (r.label ? '<a class="btn-link ghost" href="' + r.label[1] + '" target="_blank" rel="noopener">' + esc(r.label[0]) + '</a>' : '') + (r.src2 ? '<a class="btn-link ghost" href="' + r.src2[1] + '" target="_blank" rel="noopener">' + esc(r.src2[0]) + ' ★ ' + r.src2[2] + '</a>' : '') + '</p></div></div></article>';
     });
     $("recipes").innerHTML = h;
   }
